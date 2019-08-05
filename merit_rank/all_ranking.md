@@ -4,7 +4,7 @@
 
 ## 积分反馈格式如下（加粗字体请更新替换，请严格按照此格式更新）
 * <B>uMissc</B>：<B>1</B>个积分，贡献点：
-     * 完成案例：<B>https://github.com/huaweicloud/ModelArts-Lab/issues/49#issuecomment-505020322</B>
+     * 完成案例：[第一期](https://github.com/huaweicloud/ModelArts-Lab/issues/49#issuecomment-505020322)
      * 体验文章：<B></B>
      * 扩展案例：<B></B>
      * 实际应用案例：<B></B>
